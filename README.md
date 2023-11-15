@@ -6,7 +6,7 @@
 
 Создаём виртуальное окружение:
 
-    python3 -m venv myenv
+    python3 -m venv venv
 
 И активируем его:
 
