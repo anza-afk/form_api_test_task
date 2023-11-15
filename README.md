@@ -23,6 +23,6 @@
 
 ## Тестовый скрипт:
 
-    python test_api.py
+    python3 test_api.py
 
 Можно добавить больше форм для теста, путём добавления python dict с данными в файл initial.py в список test_data к остальным данным
