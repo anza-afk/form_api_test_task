@@ -4,10 +4,18 @@
 
     git clone https://github.com/anza-afk/form_api_test_task.git
 
+Создаём виртуальное окружение:
+
+    python3 virtualenv venv
+
+И активируем его:
+
+    . venv/bin/activate
+    (для Windows venv\Scripts\activate)
+
 Установка зависимостей (в виртуальное окружение):
 
     pip install -r requirements.txt
-
 
 ## Запуск:
 
